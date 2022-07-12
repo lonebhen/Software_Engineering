@@ -1,1 +1,1 @@
-Practise of git and gdithub
+Practise of git and github
